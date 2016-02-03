@@ -1,2 +1,5 @@
+Version 0.0.2
+Tristan got here too 
+
 Version 0.0.1
 Dan was here
